@@ -2,7 +2,7 @@
   "domain": "victron_ir",
   "name": "Victron IR BLE",
   "codeowners": [
-    "@SWW13"
+    "@coogle"
   ],
   "bluetooth": [
     {
